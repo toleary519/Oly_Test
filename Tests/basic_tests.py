@@ -16,7 +16,7 @@ file in my GitHub repository.
 Thank you very much for your time,
 
 Thomas O’Leary
-All contact information is available on my resumé
+All contact information is available on my resumé and cover letter.
 '''
 
 from selenium import webdriver
